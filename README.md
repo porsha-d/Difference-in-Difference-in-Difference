@@ -12,5 +12,15 @@ This repository contains the cleaned dataset and Stata code for a Difference-in-
 2. Open the do-file in Stata and set the correct file paths for the dataset.
 3. Run the do-file to reproduce the analysis.
 
+## Dataset Information
+
+The dataset in this repository is based on the Behavioral Risk Factor Surveillance System (BRFSS) data provided by the Centers for Disease Control and Prevention (CDC).
+
+### License
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+### Citation
+Behavioral Risk Factor Surveillance System (BRFSS), Centers for Disease Control and Prevention (CDC). Cleaned and prepared by [Porsha Dadgostar], [2024].
+
 ## Contact
 For questions or feedback, please contact [your email or GitHub profile].
