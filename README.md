@@ -9,8 +9,10 @@ This repository contains the cleaned dataset and Stata code for a Difference-in-
 
 ## How to Use
 1. Download the dataset and the Stata do-file.
-2. Open the do-file in Stata and set the correct file paths for the dataset.
-3. Run the do-file to reproduce the analysis.
+2. Please find the data file for the analysis in the following link:
+[Google Drive File] (https://drive.google.com/file/d/1krTahn3sVnxN_xSntZ-FCifAD0xBzTUg/view?usp=sharing)
+4. Open the do-file in Stata and set the correct file paths for the dataset.
+5. Run the do-file to reproduce the analysis.
 
 ## Dataset Information
 
