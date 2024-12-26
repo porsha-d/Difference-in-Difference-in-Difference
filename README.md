@@ -5,7 +5,7 @@ This repository contains the cleaned dataset and Stata code for a Difference-in-
 
 ## Files
 - `data/cleaned_dataset.csv`: The cleaned dataset used for the analysis.
-- `code/ddd_analysis.do`: The Stata do-file that performs the DDD analysis.
+- `code/todofileCRC_github.do`: The Stata do-file that performs the DDD analysis.
 
 ## How to Use
 1. Download the dataset and the Stata do-file.
