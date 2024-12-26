@@ -25,4 +25,4 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 Behavioral Risk Factor Surveillance System (BRFSS), Centers for Disease Control and Prevention (CDC). Cleaned and prepared by [Porsha Dadgostar], [2024].
 
 ## Contact
-For questions or feedback, please contact [your email or GitHub profile].
+For questions or feedback, please contact [github.com/porsha-d].
