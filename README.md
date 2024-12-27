@@ -1,5 +1,11 @@
 # Difference-in-Difference-in-Difference
- Difference-in-Difference-in-Difference analysis with cleaned dataset and Stata code
+ Difference-in-Difference-in-Difference analysis with cleaned dataset and Stata code.
+
+Research Question: Do states with the CRC mandate have higher colorectal cancer screening?
+
+Hypothesis: States with the CRC mandate will have higher CRC screening compared to those that do not have such a mandate. 
+
+
 
 This repository contains the cleaned dataset and Stata code for a Difference-in-Difference-in-Difference (DDD) analysis.
 
