@@ -23,6 +23,17 @@ This repository contains the cleaned dataset and Stata code for a Difference-in-
 
 The dataset in this repository is based on the Behavioral Risk Factor Surveillance System (BRFSS) data provided by the Centers for Disease Control and Prevention (CDC).
 
+Two Outcome variables:
+-Last Blood Stool Test Within the Past Year
+-Last Colonoscopy Within the Past Year
+
+Statistical package used
+-REGHDFE: Stata package that runs linear and instrumental-variable regressions with many levels of fixed effects
+
+CRC screening= β0+ β1 CRC screening + β2 δs+ β3 λy+ β4X+ ε
+
+
+
 ### License
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
